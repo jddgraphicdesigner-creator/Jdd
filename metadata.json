@@ -1,0 +1,6 @@
+{
+  "name": "Background Player",
+  "description": "Background video & music player with Picture-in-Picture (PiP), sleep timer, and curated audio streams.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer glow / subtle ring -->
+    <path
+        android:fillColor="#30FF3366"
+        android:pathData="M54,22 C71.67,22 86,36.33 86,54 C86,71.67 71.67,86 54,86 C36.33,86 22,71.67 22,54 C22,36.33 36.33,22 54,22 Z" />
+
+    <!-- PiP Floating Window Outline -->
+    <path
+        android:fillColor="#4DFFFFFF"
+        android:pathData="M31,34 H77 C79.2,34 81,35.8 81,38 V70 C81,72.2 79.2,74 77,74 H31 C28.8,74 27,72.2 27,70 V38 C27,35.8 28.8,34 31,34 Z" />
+
+    <!-- Screen Inner Display -->
+    <path
+        android:fillColor="#1E293B"
+        android:pathData="M33,37 H75 C76.1,37 77,37.9 77,39 V69 C77,70.1 76.1,71 75,71 H33 C31.9,71 31,70.1 31,69 V39 C31,37.9 31.9,37 33,37 Z" />
+
+    <!-- Bold Play Triangle in Vibrant Gradient Crimson/Red -->
+    <path
+        android:fillColor="#FF2E54"
+        android:pathData="M46,43 L66,54 L46,65 Z" />
+
+    <!-- Floating Mini PiP Badge on Bottom-Right -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M61,53 H76 C77.1,53 78,53.9 78,55 V68 C78,69.1 77.1,70 76,70 H61 C59.9,70 59,69.1 59,68 V55 C59,53.9 59.9,53 61,53 Z" />
+
+    <!-- Mini play inside PiP Badge -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M66,58 L72,61.5 L66,65 Z" />
+
+    <!-- Sound waves top right -->
+    <path
+        android:fillColor="#A78BFA"
+        android:pathData="M69,32 C73,34.5 76,38 77,41 L74,42 C73,39.5 70.5,36.5 67,34.5 Z" />
+</vector>
